@@ -17,7 +17,7 @@ cap.set(4, height)
 
 # Variables
 imgNumber = 0
-camScale = 7
+camScale = 3
 hs, ws = int(120*camScale), int(213*camScale)
 gestureThreashold = height//4*3
 buttonPressed = False
